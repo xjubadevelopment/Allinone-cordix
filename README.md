@@ -1,8 +1,8 @@
-# AeroX AIO V3 - Ultimate Discord Bot
+# All In One Cordix - Ultimate Discord Bot
 
 AeroX is a feature-rich Discord bot built with **discord.js v14**, featuring advanced hybrid sharding for scalability, high-quality music streaming via Lavalink, and a modular architecture.
 
-[![Support Server](https://img.shields.io/discord/1070267471958614057?color=7289da&label=Support%20Server&logo=discord)](https://discord.gg/aerox)
+[![Support Server](https://img.shields.io/discord/1070267471958614057?color=7289da&label=Support%20Server&logo=discord)]([https://discord.gg/sPMYEweyWW])
 
 ## 🚀 Features
 
@@ -45,13 +45,10 @@ AeroX is a feature-rich Discord bot built with **discord.js v14**, featuring adv
 
 This project is licensed under a custom agreement. It is free for **personal, non-commercial use**. Redistribution for profit or creating video tutorials/showcases of the source code without permission is strictly prohibited. See [LICENSE](./LICENSE) for full details.
 
-## 🙌 Credits
 
-- **Developers**: Shinchan & **AeroX Development**
-- **Base Code**: This project uses [Yukihana](https://github.com/bre4d777/Yukihana) by **bre4d777** as its foundation.
 
 ---
 
 ### 📞 Support
 
-Join our support server for help and updates: [discord.gg/aerox](https://discord.gg/aerox)
+Join our support server for help and updates: [discord.gg/cordix](https://discord.gg/sPMYEweyWW)
