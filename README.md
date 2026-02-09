@@ -1,3 +1,4 @@
+!["Main Image"](https://github.com/xjubadevelopment/Allinone-cordix/blob/136e0389d0d272f64f66720d55f874805397fe86/Img/main.png "AdminLTE Presentation")
 # All In One Cordix - Ultimate Discord Bot
 
 AeroX is a feature-rich Discord bot built with **discord.js v14**, featuring advanced hybrid sharding for scalability, high-quality music streaming via Lavalink, and a modular architecture.
